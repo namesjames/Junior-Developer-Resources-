@@ -1,9 +1,9 @@
 # Junior-Developer-Resources
 Junior Developer Resources for everyone!! 💻
 
-```SITES::
-Linkedin 
-BuiltInCO 
+## SITES:
+* [Linkedin] 
+* [BuiltInCO= 
 Angel List 
 Dice 
 Indeed 
@@ -34,7 +34,7 @@ Emberjs
 CodePen
 AuthenticJobs
 Monster
-hnjobs```
+hnjobs
 
 
 Other Job Resources:
