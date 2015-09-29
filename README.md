@@ -1,7 +1,7 @@
 # Junior-Developer-Resources
 Junior Developer Resources for everyone!! 💻
 
-SITES::
+```SITES::
 Linkedin 
 BuiltInCO 
 Angel List 
@@ -22,7 +22,7 @@ Andrew Hudson
 BWBacon 
 Craigslist
 Ruby Now 
-Remy *
+Remy
 MirRoR Placement 
 Reddit 
 We Work Remotely 
@@ -34,7 +34,7 @@ Emberjs
 CodePen
 AuthenticJobs
 Monster
-hnjobs
+hnjobs```
 
 
 Other Job Resources:
@@ -155,7 +155,7 @@ Establish Regular Processes - Companies no longer want big ‘information blasts
 
 Listening - Listening is often more important than publishing any sort of information. Being a good listener can help lead to being a good communicator. 
 
-Team Work
+Team Work:
 
 Qualities of an effective team player:
 Respect
@@ -169,20 +169,9 @@ Flexibility
 Critical & Creative Thinking
 
 
-
 Post-Interview Follow-Up
 
 When you get home from the interview, write down your notes and questions about the interview before you have a chance to forget them. Also write down the names of the interviewer(s) - remembering names are VERY important!
 Write down the specific questions and concerns the interviewer(s) had. Write down your own observations and questions, too (for future reference). 
 Write a Thank You / Follow Up email: this should be short and sweet - thanking them, showing them your excitement and offering to send any additional information.
 
-	Example email:
-
-Dear James, 
-
-Thank you for taking the time to speak with me today about the [job title] position with [company name]. It was great meeting with you and I am very excited about the possibility of joining your team.
-
-I’m looking forward to our next conversation. If you need any more information, please let me know. Have a great rest of the week!
-
-Best,
-James Jameson
