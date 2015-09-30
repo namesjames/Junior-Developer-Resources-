@@ -1,5 +1,7 @@
 # Junior-Developer-Resources
-> Junior Developer Resources for everyone!! 💻
+> Junior Developer Resources for Everyone!! 💻
+
+feel free to contact me with questions or suggestions - james@galvanize.com or jamesconti.41@gmail.com
 
 ## SITES:
 * Linkedin 
