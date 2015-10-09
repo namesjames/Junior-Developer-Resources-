@@ -1,7 +1,7 @@
 # Junior-Developer-Resources
 > Junior Developer Resources for Everyone!! 💻
 
-feel free to contact me with questions or suggestions - james@galvanize.com or jamesconti.41@gmail.com
+feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 
 ## SITES:
 * Linkedin 
@@ -124,10 +124,7 @@ Google Template ```
 ## Men:
 * Tips: if you’re interviewing at a startup a button down and slacks / dark jeans and leather shoes (either boat shoes or desert boots) work great. As far as accessories - no exposed necklaces, it’s advised to remove any earrings for interviews unless you have gauges (might look gross without). A nice watch always looks great, make sure the time is correct and it’s on your left wrist. If you’re interviewing somewhere more corporate, again button down but tucked-in, slacks / dress pants, leather shoes (polished) stick with one color of leather - don’t wear black shoes, brown belt, and silver watch, try to stay consistent. Don’t over-do the cologne and always iron / lint brush your outfit. 
 
-
-
-  ## Negotiating: 
-
+## Negotiating: 
 
 * How do I turn a part time contract into a full time position?
 
@@ -138,7 +135,6 @@ Google Template ```
 * How can I negotiate working remotely?
 
 * How can I negotiate working out of a different office location?
-
 
 ## Personality Traits:
 
