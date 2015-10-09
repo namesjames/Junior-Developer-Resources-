@@ -91,16 +91,9 @@ Wait until the next interview to ask about salary, benefits (vacation, 401k, etc
 * Dice - Good to have a profile
 * Mirror Placement - Great resource but really intended for mid-sr devs
 
-## Resume Templates: 
-```Let’s get away from boring traditional resume, check out these templates here!
-Creddle
-28 Free Photoshop Templates
-Free illustrator Template 
-CutPasteArtist
-Pixeden
-Freepik
-CV Ease
-Google Template ```
+## Resume Resources: 
+> Let’s get away from boring traditional resume, check out these resources [here] (https://github.com/namesjames/Junior-Developer-Resources/blob/master/web-resources.md)!
+
 
 ## What will keep your resume at the “top of the stack”: 
 * Eye-catching theme / design (no boring word docs) - but keep it clean and simple!
