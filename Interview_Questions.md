@@ -37,7 +37,16 @@
 * What creates scope in Javascript?
 * How can variables be assigned in Javascript in 2015?
 
+# Questions for you to ask:
 
+* What’s your feedback mechanism? (Do you use pull requests prior to merging it?)
+* How does code get into production? (look for a nice repeatable process)
+* Ask about culture? (is this a strict 9-5, is there flexibility?)
+* Do you have regular reviews / feedback for your employees?
+* What’s your current technology stack? (does it differ from the job description) I need details!
+* What are your current application pain points? (What are the characteristics of the performance issues in your application)
+* Ask about pairing (what are the organizational views on pairings, how much time spent)
+* What are the organizational views on testing (may not always be applicable)
 
 # Resources:
 
