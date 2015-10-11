@@ -1,5 +1,5 @@
 # Web Resources
-> List of helpful sites, feel free to contribute:
+> List of helpful sites, ans repos, feel free to contribute
 
 # Resumes & Such:
 * http://jobs.remotive.io/
@@ -26,6 +26,9 @@
 
 
 # Online Learning
+
+### General
+
 * https://www.codecademy.com/galvanize
 * http://www.git-tower.com/learn/
 * https://due.com/programmer
@@ -36,5 +39,45 @@
 * https://dash.generalassemb.ly/
 * http://trydesignlab.com/
 
+### Finding answers.
+
+- [Mozilla Developer Network](http://developer.mozilla.com)
+- [stackoverflow](http://stackoverflow.com)
+
+### Tutorials / Guides
+
+**Git/GitHub**
+
+- [Hello World Guide](http://guides.github.com/activities/hello-world)
+- [Git-it](http://jlord.github.io/git-it)
+
+**JS**
+
+- [JS for Cats](http://www.jsforcats.com)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+**Node**
+
+- [Node for Beginners](https://github.com/rockbot/node-for-beginners) by @rockbot
+- [Art of Node](https://github.com/maxogden/art-of-node) by @maxogden
+- [NodeSchool](http://www.nodeschool.io)
+
+**Front end**
+
+- [HTML & CSS](http://learn.shayhowe.com/html-css/) by Shay Howe
+- [Learn CSS Layout](http://learnlayout.com/) by @boucoup
+- [Screencasts on design and front-end development](http://designbytyping.com/) by @mrmrs
+- [This is Markdown](http://thisismarkdown.com/) by @planetarycorp
+
+## Assets
+
+- [WTF Forms](http://wtfforms.com/) by @mdo
+- [WTF CSS](http://wtfhtmlcss.com/) by @mdo 
+- [PS, AI, Git, Vim, CSS Cheatsheet](http://www.cheetyr.com/) by @WilliamLeeks
+- [Beautiful Open](http://beautifulopen.com/) source sites by @trek
+- [Unsplash](https://unsplash.com/) Free high-res stock photos
+
 
 # Helpful Repos
+## Dot Files
+- [jlord/dotfiles](https://github.com/jlord/dotfiles)
