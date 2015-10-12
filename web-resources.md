@@ -23,7 +23,10 @@
 * https://represent.io/
 * http://vizualize.me/
 * http://startupjob.me/
+* http://audiencestack.com/static/blog-hack-linkedin-to-view-website-visitors.html
 
+# Design Resources:
+* http://facebook.github.io/design/
 
 # Online Learning
 
