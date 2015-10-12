@@ -39,7 +39,7 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * hnjobs
 
 
-# Other Job Resources:
+# Other lead Resources:
 * Alumni Connections - Check companies that currently employ alumni
 * Former Colleagues - Look for ‘ins’ 
 * External Recruiters - Feel free to work with
@@ -52,12 +52,12 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * Linkedin Connections and news feed - stay active
 * Conferences  - go to any of the sponsors websites
 
-# How to greet interviewer:
-```When greeting the interviewer be confident, make sure to shake his/her hand firmly and make eye contact (this is very important in showing them your confidence and professionalism). If you do not have a portfolio for your resume, put it in a dark or beige folder, carrying it professionally by your side. (see below)```
+# How to greet the interviewer:
+```When greeting the interviewer be confident, make sure to shake his/her hand firmly and make eye contact (this is very important in showing them your confidence and professionalism). If you do not have a portfolio for your resume, put it in a dark or beige folder, carrying it professionally by your side. Come prepared with whatever you need to show how you're qualified.```
 
 
-
-# Three Things You Wish to Achieve When Asking Your Questions:
+# Questions
+## Three Things You Wish to Achieve When Asking Your Questions:
 
 * Demonstrate your interest in the employer.
 * Make sure the interviewer has no reservations about you.
