@@ -1,13 +1,25 @@
 # Interview Questions
-> Questions to Practice
+> Questions to Practice, Primarily JavaScript Focused.
 
-# Example Phone Screen Questions:
+# Example Screening Questions:
 
+* What excites or interests you about coding +/- this company?
+* What did you learn yesterday/this week?
+* What is a recent technical challenge you experienced and how did you solve it?
+* What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
 * What does API stand for and what do they do?
-* When was the last time you used a design pattern and how did you apply it? Please explain in depth.
+* Can you describe your workflow when you create a web page?
+* If you have 5 different stylesheets, how would you best integrate them into the site?
+* How would you optimize a website's assets/resources?
 * Do you test drive code? If so, why?
-* Name a company you want to apply to. Why do you want to be an engineer here?
-* Please talk about javascript and ruby and how they work together in building a web application.
+* Name 3 ways to decrease page load (perceived or actual load time).
+* When was the last time you used a design pattern and how did you apply it? Please explain in depth.
+* If you jumped on a project and they used tabs and you used spaces, what would you do?
+* Describe how you would create a simple slideshow page.
+* If you could master one technology this year, what would it be?
+* Explain the importance of standards and standards bodies.
+* Explain some of the pros and cons for CSS animations versus JavaScript animations.
+* What does CORS stand for and what issue does it address?
 
 # Example Interview Questions (Javascript)
 
