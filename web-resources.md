@@ -82,6 +82,10 @@
 - [PS, AI, Git, Vim, CSS Cheatsheet](http://www.cheetyr.com/) by @WilliamLeeks
 - [Beautiful Open](http://beautifulopen.com/) source sites by @trek
 - [Unsplash](https://unsplash.com/) Free high-res stock photos
+- [HTML Validation](http://validator.w3.org/)
+- [CSS Validation](http://jigsaw.w3.org/css-validator/)
+
+
 
 ### Chrome:
 
