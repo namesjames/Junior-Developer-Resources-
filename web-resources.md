@@ -1,7 +1,7 @@
 # Web Resources
 > List of helpful sites, ans repos, feel free to contribute
 
-# Resumes & Such:
+# Resumes & Branding:
 * http://jobs.remotive.io/
 * https://sumry.me
 * http://www.jobcv.me/
@@ -26,6 +26,8 @@
 * http://audiencestack.com/static/blog-hack-linkedin-to-view-website-visitors.html
 
 # Design Resources:
+
+* https://github.com/google/material-design-lite
 * http://facebook.github.io/design/
 
 # Online Learning
@@ -46,6 +48,7 @@
 
 - [Mozilla Developer Network](http://developer.mozilla.com)
 - [stackoverflow](http://stackoverflow.com)
+- [Quora](https://www.quora.com/)
 
 ### Tutorials / Guides
 
@@ -80,7 +83,13 @@
 - [Beautiful Open](http://beautifulopen.com/) source sites by @trek
 - [Unsplash](https://unsplash.com/) Free high-res stock photos
 
+### Chrome:
+
+- http://www.creativebloq.com/web-design/google-chrome-extensions-21410570
+- http://marketblog.envato.com/resources/chrome-extensions-web-designers/
+- http://www.hongkiat.com/blog/google-chrome-extensions-designers/
 
 # Helpful Repos
-## Dot Files
-- [jlord/dotfiles](https://github.com/jlord/dotfiles)
+
+- [material design](https://github.com/google/material-design-lite)
+- [dotfiles](https://github.com/jlord/dotfiles)
