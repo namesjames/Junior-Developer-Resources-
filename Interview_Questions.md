@@ -48,9 +48,21 @@
 * Ask about pairing (what are the organizational views on pairings, how much time spent)
 * What are the organizational views on testing (may not always be applicable)
 
-# Resources:
+# Resources (js focused):
 
+* http://eloquentjavascript.net/
 * http://interviewing.io/
+* http://www.toptal.com/javascript/interview-questions
+* http://career.guru99.com/top-85-javascript-interview-questions/
+* http://www.thatjsdude.com/interview/js2.html
+* http://www.codeproject.com/Articles/620811/Latest-JavaScript-Interview-Questions-and-Answers
+* http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
+* https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+* http://stackoverflow.com/questions/2492123/pro-javascript-programmer-interview-questions-with-answers
+* https://github.com/h5bp/Front-end-Developer-Interview-Questions
+* http://www.sitepoint.com/5-typical-javascript-interview-exercises/
 * https://www.interviewcake.com/question/js-scope?utm_source=weekly_email
 * http://lizmrush.com/on-interviewing/
-* http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/ https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+* http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/
+* https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+* https://www.interviewcake.com/javascript-interview-questions
