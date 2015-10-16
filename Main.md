@@ -4,16 +4,16 @@
 feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 
 # SITES:
-* Linkedin 
-* BuiltInCO 
-* Angel List 
-* Dice 
-* Indeed 
+* [Linkedin](http://linkedin.com) 
+* [BuiltInCO](http://builtincolorado.com/) 
+* [Angel List](http://angel.co/) 
+* [Dice](http://dice.com/) 
+* [Indeed](http://indeed.com/) 
 * Hacker.surf 
 * career builder 
 * Glass Door 
 * stack overflow 
-* GitHub
+* [GitHub](http://jobs.github.com/)
 * Tech Stars
 * Venture Loop
 * Unicorn Hunt
