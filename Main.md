@@ -22,18 +22,18 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * Jr Dev Jobs
 * Andrew Hudson
 * BWBacon 
-* Craigslist
+* [Craigslist](http://denver.craigslist.org)
 * Ruby Now 
 * Remy
 * MirRoR Placement 
 * Reddit 
 * We Work Remotely 
 * New Tech 
-* Spark Boulder 
+* [Spark Boulder](http://sparkboulder.com)
 * Robert Half Technology
-* Hired 
+* [Hired](http://hired.com) 
 * Emberjs
-* CodePen
+* CodePen](http://jobs.codepen.io)
 * AuthenticJobs
 * Monster
 * hnjobs
@@ -50,7 +50,7 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * Venture Capital Firms - look at their job boards and investments
 * Coworking Spaces - look at the companies that work there
 * Linkedin Connections and news feed - stay active
-* Conferences  - go to any of the sponsors websites
+* Conferences  - go to any of the sponsors websites, they're most likely hiring. 
 
 # How to greet the interviewer:
 ```When greeting the interviewer be confident, make sure to shake his/her hand firmly and make eye contact (this is very important in showing them your confidence and professionalism). If you do not have a portfolio for your resume, put it in a dark or beige folder, carrying it professionally by your side. Come prepared with whatever you need to show how you're qualified.```
