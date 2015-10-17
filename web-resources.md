@@ -1,5 +1,5 @@
 # Web Resources
-> List of helpful sites, ans repos, feel free to contribute
+> List of helpful sites, and repos, feel free to contribute
 
 # Resumes & Branding:
 * http://jobs.remotive.io/
@@ -23,12 +23,70 @@
 * https://represent.io/
 * http://vizualize.me/
 * http://startupjob.me/
+* http://beautifulopen.com/
 * http://audiencestack.com/static/blog-hack-linkedin-to-view-website-visitors.html
 
 # Design Resources:
 
+### General
 * https://github.com/google/material-design-lite
 * http://facebook.github.io/design/
+* https://www.pixelsquid.com/
+* https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8
+* http://www.codesign.io/
+* http://www.designermill.com/
+* https://www.thebestdesigns.com/
+* http://designresearchtechniques.com/
+* https://designrails.com/
+* http://screensiz.es/phone
+* http://marvelapp.github.io/
+* http://tobiasahlin.com/spinkit/
+* http://anicollection.github.io/
+* http://emptystat.es/
+* https://github.com/christiannaths/Redacted-Font?ref=producthunt
+
+### Colors
+* http://coolors.co/
+* http://colourco.de/
+* http://www.colorhunt.co/
+* http://www.uipalette.net/
+* http://couleursapp.com/
+* http://colorsnapper.com/
+
+### Typography
+* https://www.typewolf.com/
+* http://typ.io/
+* 
+
+### Iconography
+* https://thenounproject.com/
+* http://www.flaticon.com/
+* http://iconstore.co/
+* https://www.nucleoapp.com/
+* http://geticonjar.com/
+* https://smarticons.co/
+* http://paymentfont.io/
+* http://ego-icons.com/
+* http://swifticons.com/
+* https://www.iconfinder.com/
+
+### Photos / Imagery / Video
+* https://www.pexels.com/
+* http://www.sitebuilderreport.com/stock-up
+* http://www.videvo.net/
+* http://www.freepik.com/
+* https://unsplash.com/
+* http://subtlepatterns.com/
+
+### Infographics
+* http://www.easel.ly/
+
+### Inspiration
+
+* http://endtheecho.com/
+* http://www.landingfolio.com/
+* http://lapa.ninja/
+* http://fltdsgn.com/
 
 # Online Learning
 
@@ -43,6 +101,7 @@
 * http://learnxinyminutes.com/
 * https://dash.generalassemb.ly/
 * http://trydesignlab.com/
+* https://hackdesign.org/
 
 ### Finding answers.
 
@@ -75,6 +134,8 @@
 - [Screencasts on design and front-end development](http://designbytyping.com/) by @mrmrs
 - [This is Markdown](http://thisismarkdown.com/) by @planetarycorp
 - [UI](http://dailyui.co/)
+- [CSS Animations](http://www.justinaguilar.com/animations/index.html)
+- [Pure CSS](http://purecss.io/start/)
 
 ## Assets
 
@@ -93,6 +154,7 @@
 - http://www.creativebloq.com/web-design/google-chrome-extensions-21410570
 - http://marketblog.envato.com/resources/chrome-extensions-web-designers/
 - http://www.hongkiat.com/blog/google-chrome-extensions-designers/
+- https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
 # Helpful Repos
 
