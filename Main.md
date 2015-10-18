@@ -9,31 +9,31 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * [Angel List](http://angel.co/) 
 * [Dice](http://dice.com/) 
 * [Indeed](http://indeed.com/) 
-* Hacker.surf 
-* career builder 
-* Glass Door 
-* stack overflow 
+* [Hacker.surf](http://hacker.surf) 
+* [Career Builder](http://careerbuilder.com/) 
+* [Glass Door](http://glassdoor.com/) 
+* [stack overflow]() 
 * [GitHub](http://jobs.github.com/)
-* Tech Stars
-* Venture Loop
-* Unicorn Hunt
-* SimplyHired
-* Startups List
-* Jr Dev Jobs
-* Andrew Hudson
-* BWBacon 
+* [Tech Stars]()
+* [Venture Loop]()
+* [Unicorn Hunt]()
+* [SimplyHired]()
+* [Startups List]()
+* [Jr Dev Jobs]()
+* [Andrew Hudson]()
+* [BWBacon](http://www.bwbacon.com/) 
 * [Craigslist](http://denver.craigslist.org)
 * Ruby Now 
 * Remy
-* MirRoR Placement 
+* [MirRoR Placement](http://mirrorplacement.com/) 
 * Reddit 
 * We Work Remotely 
-* New Tech 
+* [New Tech](http://bdnewtech.com) 
 * [Spark Boulder](http://sparkboulder.com)
 * Robert Half Technology
 * [Hired](http://hired.com) 
 * Emberjs
-* CodePen](http://jobs.codepen.io)
+* [CodePen](http://jobs.codepen.io)
 * AuthenticJobs
 * Monster
 * hnjobs
@@ -51,6 +51,21 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * Coworking Spaces - look at the companies that work there
 * Linkedin Connections and news feed - stay active
 * Conferences  - go to any of the sponsors websites, they're most likely hiring. 
+
+# Meet-ups
+
+### Denver / Boulder
+* [Node.js Denver / Boulder](http://www.meetup.com/Node-js-Denver-Boulder/)
+* [Denver Script](http://www.meetup.com/DenverScript/)
+* [Refresh Denver](http://www.meetup.com/refreshdenver/)
+* [Full Stack](http://www.meetup.com/fullstack/)
+* [Ember Denver](http://www.meetup.com/Ember-js-Denver/)
+* [Denver Cordova](http://www.meetup.com/Denver-Cordova-Ionic-Meetup/)
+* [Denver iOS Developer User Group](http://www.meetup.com/DenverIPhone/)
+* [Sass Hack Denver](http://www.meetup.com/Sass-Hack-Denver/)
+* [Boulder Ruby](http://www.meetup.com/boulder_ruby_group/)
+* [Rocky Mountain Angular](http://www.meetup.com/RockyMountainAngularJS/)
+* [HTML5 User Group](http://www.meetup.com/HTML5-Denver-Users-Group/)
 
 # How to greet the interviewer:
 ```When greeting the interviewer be confident, make sure to shake his/her hand firmly and make eye contact (this is very important in showing them your confidence and professionalism). If you do not have a portfolio for your resume, put it in a dark or beige folder, carrying it professionally by your side. Come prepared with whatever you need to show how you're qualified.```
