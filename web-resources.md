@@ -1,5 +1,5 @@
 # Web Resources
-> List of helpful sites, and repos, feel free to contribute
+> List of helpful sites and repos, feel free to contribute
 
 # Resumes & Branding:
 * http://jobs.remotive.io/
@@ -123,27 +123,27 @@
 
 **Node**
 
-- [Node for Beginners](https://github.com/rockbot/node-for-beginners) by @rockbot
-- [Art of Node](https://github.com/maxogden/art-of-node) by @maxogden
+- [Node for Beginners](https://github.com/rockbot/node-for-beginners)
+- [Art of Node](https://github.com/maxogden/art-of-node) 
 - [NodeSchool](http://www.nodeschool.io)
 
 **Front end**
 
-- [HTML & CSS](http://learn.shayhowe.com/html-css/) by Shay Howe
-- [Learn CSS Layout](http://learnlayout.com/) by @boucoup
-- [Screencasts on design and front-end development](http://designbytyping.com/) by @mrmrs
-- [This is Markdown](http://thisismarkdown.com/) by @planetarycorp
+- [HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [Learn CSS Layout](http://learnlayout.com/)
+- [Screencasts on design and front-end development](http://designbytyping.com/)
+- [This is Markdown](http://thisismarkdown.com/)
 - [UI](http://dailyui.co/)
 - [CSS Animations](http://www.justinaguilar.com/animations/index.html)
 - [Pure CSS](http://purecss.io/start/)
 
 ## Assets
 
-- [WTF Forms](http://wtfforms.com/) by @mdo
-- [WTF CSS](http://wtfhtmlcss.com/) by @mdo 
-- [PS, AI, Git, Vim, CSS Cheatsheet](http://www.cheetyr.com/) by @WilliamLeeks
-- [Beautiful Open](http://beautifulopen.com/) source sites by @trek
-- [Unsplash](https://unsplash.com/) Free high-res stock photos
+- [WTF Forms](http://wtfforms.com/)
+- [WTF CSS](http://wtfhtmlcss.com/)
+- [PS, AI, Git, Vim, CSS Cheatsheet](http://www.cheetyr.com/)
+- [Beautiful Open](http://beautifulopen.com/)
+- [Unsplash](https://unsplash.com/)
 - [HTML Validation](http://validator.w3.org/)
 - [CSS Validation](http://jigsaw.w3.org/css-validator/)
 - [Freebies](http://freebiesjedi.com/)
