@@ -19,13 +19,18 @@
 
 # Great Example Portfolios
 
-* Andrew James (g6) - http://www.andrewjamesdesign.com/
-* Ian Knox (g3) - http://www.ianknox.me/
-* Bryan Kinnear (g4) - http://houndsto0th.herokuapp.com/
-* Becca Vasil (g4) - http://becca-vasil-portfolio.herokuapp.com/
-* Daniel Harris (g6) - http://www.ianknox.me/
-* Stephen Prill (g4) - http://www.stephenprill.com/
-* Andy Nguyen (g4) - https://personal-atn.herokuapp.com/portfolio
-* Beth Jaswa (g4) - http://beth-jaswa.herokuapp.com/
-* Adam Lichty (g4) - http://www.jadaml.com/
-* Shannon Forsman (g8) - http://shannonforsman.github.io/
+* Andrew James - http://www.andrewjamesdesign.com/
+* Ian Knox - http://www.ianknox.me/
+* Bryan Kinnear - http://houndsto0th.herokuapp.com/
+* Becca Vasil - http://becca-vasil-portfolio.herokuapp.com/
+* Daniel Harris - http://daharris.herokuapp.com/
+* Stephen Prill - http://www.stephenprill.com/
+* Andy Nguyen - https://personal-atn.herokuapp.com/portfolio
+* Beth Jaswa - http://beth-jaswa.herokuapp.com/
+* Adam Lichty - http://www.jadaml.com/
+* Shannon Forsman - http://shannonforsman.github.io/
+* John Alfano -  http://www.alfanodev.com/
+* Jacob Brenneman - http://jacobbrenneman.com/
+* Judy Lin - https://jlin-portfolio.divshot.io/
+* Steve Abrams - http://abramswebdevelopment.com/
+* Zoe Adelman - http://zoeadelman.com/
