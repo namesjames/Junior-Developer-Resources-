@@ -4,11 +4,10 @@
 feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 
 # SITES:
-* [Linkedin](http://linkedin.com) 
-* [BuiltInCO](http://builtincolorado.com/) 
-* [Angel List](http://angel.co/) 
-* [Dice](http://dice.com/) 
-* [Indeed](http://indeed.com/) 
+ | | | | |
+--- | --- | --- | --- | ---
+[Linkedin](http://linkedin.com) | [BuiltInCO](http://builtincolorado.com/) | [Angel List](http://angel.co/) | [Dice](http://dice.com/) | [Indeed](http://indeed.com/) 
+
 * [Hacker.surf](http://hacker.surf) 
 * [Career Builder](http://careerbuilder.com/) 
 * [Glass Door](http://glassdoor.com/) 
