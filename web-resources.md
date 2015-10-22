@@ -3,6 +3,7 @@
 
 # Resumes & Branding:
 * http://jobs.remotive.io/
+* http://resumator.qwilr.com/
 * https://sumry.me
 * http://www.jobcv.me/
 * http://lunchcruit.com/
