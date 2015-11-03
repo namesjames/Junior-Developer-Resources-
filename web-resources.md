@@ -1,19 +1,15 @@
 # Web Resources
 > List of helpful sites and repos, feel free to contribute
 
-# Resumes & Branding:
-* http://jobs.remotive.io/
+## Resumes & Branding:
 * http://resumator.qwilr.com/
 * https://sumry.me
 * http://www.jobcv.me/
 * http://lunchcruit.com/
 * https://triplebyte.com
-* https://unicornhunt.io/
 * https://resumeruby.com
 * http://refer-me-please.com/
-* https://freelanship.com
 * http://www.workfolio.com/
-* http://www.jobrapp.com/
 * https://standardresume.co
 * http://jsonresume.org/
 * http://www.prat0318.me/json_resume/
@@ -23,9 +19,22 @@
 * https://www.resumonk.com
 * https://represent.io/
 * http://vizualize.me/
-* http://startupjob.me/
-* http://beautifulopen.com/
+
 * http://audiencestack.com/static/blog-hack-linkedin-to-view-website-visitors.html
+
+## Open Source Projects
+* https://github.com/explore
+* http://beautifulopen.com/
+
+## Job Boards
+* http://jobs.remotive.io/
+* https://freelanship.com
+* https://unicornhunt.io/
+* http://startupjob.me/
+* http://www.jobrapp.com/
+
+## Interviewing 
+* http://www.interviewqueue.com/
 
 # Design Resources:
 
