@@ -20,6 +20,9 @@
 * https://represent.io/
 * http://vizualize.me/
 
+### Markdown to PDF
+* http://25.io/mou/
+
 * http://audiencestack.com/static/blog-hack-linkedin-to-view-website-visitors.html
 
 ## Open Source Projects
@@ -32,9 +35,13 @@
 * https://unicornhunt.io/
 * http://startupjob.me/
 * http://www.jobrapp.com/
+* https://landing.jobs/ - Europe
 
 ## Interviewing 
 * http://www.interviewqueue.com/
+
+## APIs
+* [Product Hunt](https://www.producthunt.com/e/an-api-for-everything?utm_source=Product+Hunt&utm_campaign=898fdb30c8-Find_an_API_for_Anything_new_template_11_3_2015&utm_medium=email&utm_term=0_2cd7d34185-898fdb30c8-121822497)
 
 # Design Resources:
 
@@ -97,6 +104,7 @@
 * http://www.landingfolio.com/
 * http://lapa.ninja/
 * http://fltdsgn.com/
+* http://inspirizone.com/
 
 # Online Learning
 
