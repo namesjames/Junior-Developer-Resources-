@@ -94,6 +94,7 @@
 * http://www.freepik.com/
 * https://unsplash.com/
 * http://subtlepatterns.com/
+* http://mystock.photos/
 
 ### Infographics
 * http://www.easel.ly/
