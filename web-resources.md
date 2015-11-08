@@ -3,27 +3,33 @@
 
 ## Resumes & Branding:
 * http://resumator.qwilr.com/
-* https://sumry.me
 * http://www.jobcv.me/
-* http://lunchcruit.com/
-* https://triplebyte.com
-* https://resumeruby.com
-* http://refer-me-please.com/
-* http://www.workfolio.com/
-* https://standardresume.co
+* https://resumeruby.com/
+* http://creddle.io/
+* https://standardresume.co/
 * http://jsonresume.org/
 * http://www.prat0318.me/json_resume/
-* https://www.strikingly.com/online-resume/linkedin
-* https://startupcvs.com/
 * https://www.cakeresume.com/
-* https://www.resumonk.com
+* https://www.resumonk.com/
 * https://represent.io/
 * http://vizualize.me/
 
-### Markdown to PDF
-* http://25.io/mou/
+## Profiles:
+* https://sumry.me/
+* http://www.workfolio.com/
+* https://www.strikingly.com/online-resume/linkedin
 
+## No Resume Required:
+* https://triplebyte.com/
+* https://startupcvs.com/
+
+## Networking:
+* http://refer-me-please.com/
+* http://lunchcruit.com/
 * http://audiencestack.com/static/blog-hack-linkedin-to-view-website-visitors.html
+
+### Cover Letters
+* http://25.io/mou/  - Markdown to PDF
 
 ## Open Source Projects
 * https://github.com/explore
