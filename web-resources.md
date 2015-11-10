@@ -79,9 +79,10 @@
 ### Typography
 * https://www.typewolf.com/
 * http://typ.io/
-* 
+* http://www.dafont.com/
 
 ### Iconography
+* https://glyphs.co
 * https://thenounproject.com/
 * http://www.flaticon.com/
 * http://iconstore.co/
