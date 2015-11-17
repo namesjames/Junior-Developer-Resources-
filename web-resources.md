@@ -4,6 +4,7 @@
 ## Resumes & Branding:
 * http://resumator.qwilr.com/
 * http://www.jobcv.me/
+* http://www.enhancv.com/
 * https://resumeruby.com/
 * http://creddle.io/
 * https://standardresume.co/
@@ -12,12 +13,16 @@
 * https://www.cakeresume.com/
 * https://www.resumonk.com/
 * https://represent.io/
-* http://vizualize.me/
+* https://www.visualcv.com/resume-samples?locale=en
+* http://ineedaresu.me/
+
 
 ## Profiles:
 * https://sumry.me/
 * http://www.workfolio.com/
 * https://www.strikingly.com/online-resume/linkedin
+* http://vizualize.me/
+* http://resumup.com/choose_your_template
 
 ## No Resume Required:
 * https://triplebyte.com/
@@ -26,6 +31,7 @@
 ## Networking:
 * http://refer-me-please.com/
 * http://lunchcruit.com/
+* https://hiremyfriend.io/
 * http://audiencestack.com/static/blog-hack-linkedin-to-view-website-visitors.html
 
 ### Cover Letters
@@ -45,6 +51,7 @@
 
 ## Interviewing 
 * http://www.interviewqueue.com/
+* https://pymetrics.com/
 
 ## APIs
 * [Product Hunt](https://www.producthunt.com/e/an-api-for-everything?utm_source=Product+Hunt&utm_campaign=898fdb30c8-Find_an_API_for_Anything_new_template_11_3_2015&utm_medium=email&utm_term=0_2cd7d34185-898fdb30c8-121822497)
