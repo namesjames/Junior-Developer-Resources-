@@ -53,6 +53,16 @@
 * http://www.interviewqueue.com/
 * https://pymetrics.com/
 
+## Finding People
+* https://emailhunter.co/
+* http://anymailfinder.com/
+* https://www.voilanorbert.com/
+* http://emailbreaker.com/
+* https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj
+* http://metricsparrow.com/toolkit/email-permutator/
+* http://email-lookup.spokepoint.com/
+* http://toofr.com/
+
 ## APIs
 * [Product Hunt](https://www.producthunt.com/e/an-api-for-everything?utm_source=Product+Hunt&utm_campaign=898fdb30c8-Find_an_API_for_Anything_new_template_11_3_2015&utm_medium=email&utm_term=0_2cd7d34185-898fdb30c8-121822497)
 
