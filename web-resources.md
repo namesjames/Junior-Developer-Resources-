@@ -145,6 +145,12 @@
 * https://dash.generalassemb.ly/
 * http://trydesignlab.com/
 * https://hackdesign.org/
+* https://www.thinkful.com
+* http://codecombat.com/
+* https://www.gethopscotch.com/
+* http://www.sololearn.com/
+* http://www.codewars.com/
+* https://www.bento.io/
 
 ### Finding answers.
 
