@@ -65,6 +65,7 @@
 
 ## APIs
 * [Product Hunt](https://www.producthunt.com/e/an-api-for-everything?utm_source=Product+Hunt&utm_campaign=898fdb30c8-Find_an_API_for_Anything_new_template_11_3_2015&utm_medium=email&utm_term=0_2cd7d34185-898fdb30c8-121822497)
+* * [Off-line Documentation](https://kapeli.com/dash)
 
 # Design Resources:
 
@@ -94,6 +95,7 @@
 * http://colorsnapper.com/
 
 ### Typography
+* https://prowebtype.com/
 * https://www.typewolf.com/
 * http://typ.io/
 * http://www.dafont.com/
@@ -151,12 +153,18 @@
 * http://www.sololearn.com/
 * http://www.codewars.com/
 * https://www.bento.io/
+* http://www.html5rocks.com/en/
+
 
 ### Finding answers.
 
 - [Mozilla Developer Network](http://developer.mozilla.com)
 - [stackoverflow](http://stackoverflow.com)
 - [Quora](https://www.quora.com/)
+- [First Aid: git](http://ricardofilipe.com/projects/firstaidgit)
+- [Coderwall](https://coderwall.com/)
+- [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
+- [Design Quips](http://zurb.com/quips)
 
 ### Tutorials / Guides
 
@@ -169,6 +177,10 @@
 
 - [JS for Cats](http://www.jsforcats.com)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [JS Books](http://jsbooks.revolunet.com/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#while_statement)
+- 
 
 **Node**
 
@@ -185,6 +197,19 @@
 - [UI](http://dailyui.co/)
 - [CSS Animations](http://www.justinaguilar.com/animations/index.html)
 - [Pure CSS](http://purecss.io/start/)
+- [CSS Selector Game](http://flukeout.github.io/)
+- [MarkSheet HTML/CSS/Sass](http://marksheet.io/)
+- [Grid](http://www.adamkaplan.me/grid/)
+- [Codrops](http://tympanus.net/codrops/)
+- [Hack Design](https://hackdesign.org/)
+- [Pixel Perfect Precision Handbook](http://www.ustwo.co.uk/blog/the-ustwo-pixel-perfect-precision-handbook-1-1-and-how-it-was-made/)
+- [Material Design](http://www.materialup.com/)
+- [Hover.css](http://ianlunn.github.io/Hover/)
+
+**SEO**
+
+- [SEO Beginners Guide](http://moz.com/beginners-guide-to-seo/how-search-engines-operate)
+- [Meta Tags](http://moz.com/blog/meta-data-templates-123)
 
 ## Assets
 
