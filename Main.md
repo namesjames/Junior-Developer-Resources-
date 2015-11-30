@@ -22,7 +22,6 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * [Andrew Hudson]()
 * [BWBacon](http://www.bwbacon.com/) 
 * [Craigslist](http://denver.craigslist.org)
-* Ruby Now 
 * Remy
 * [MirRoR Placement](http://mirrorplacement.com/) 
 * Reddit 
@@ -31,14 +30,13 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * [Spark Boulder](http://sparkboulder.com)
 * Robert Half Technology
 * [Hired](http://hired.com) 
-* Emberjs
 * [CodePen](http://jobs.codepen.io)
 * AuthenticJobs
 * Monster
 * hnjobs
 
 
-# Other lead Resources:
+# Other Resources For Job Leads:
 * Alumni Connections - Check companies that currently employ alumni
 * Former Colleagues - Look for ‘ins’ 
 * External Recruiters - Feel free to work with
@@ -66,33 +64,6 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * [Rocky Mountain Angular](http://www.meetup.com/RockyMountainAngularJS/)
 * [HTML5 User Group](http://www.meetup.com/HTML5-Denver-Users-Group/)
 
-# How to greet the interviewer:
-```When greeting the interviewer be confident, make sure to shake his/her hand firmly and make eye contact (this is very important in showing them your confidence and professionalism). If you do not have a portfolio for your resume, put it in a dark or beige folder, carrying it professionally by your side. Come prepared with whatever you need to show how you're qualified.```
-
-
-# Questions
-## Three Things You Wish to Achieve When Asking Your Questions:
-
-* Demonstrate your interest in the employer.
-* Make sure the interviewer has no reservations about you.
-* Find out if you feel the employer is the right fit for you (you’re interviewing them!)
-
-# Sample questions:
-
-* What’s your feedback mechanism? (Do you use pull requests prior to merging it?)
-* How does code get into production? (look for a nice repeatable process) 
-* Ask about culture? (is this a strict 9-5, is there flexibility?)
-* Do you have regular reviews / feedback for your employees? 
-* What’s your current technology stack? (does it differ from the job description) I need details!
-* What are your current application pain points? (What are the characteristics of the performance issues in your application)
-* Ask about pairing (what are the organizational views on pairings, how much time spent)
-* What are the organizational views on testing (may not always be applicable) 
- 
-# Questions to Avoid:
-
-```Avoid too much ‘chit-chat’ during technical interviews (but look for well-placed jokes to cut tension in interviews...only as seen fit)
-Wait until the next interview to ask about salary, benefits (vacation, 401k, etc.)```
-
 # Networking:
 * Attend Meetups, Hackathons, Career Fairs, Conferences, etc.
 * Create online profiles:
@@ -116,6 +87,34 @@ Wait until the next interview to ask about salary, benefits (vacation, 401k, etc
 * Tailored resumes (job specific)
 * Leverage your personal projects as job experience 
 
+# The Interview
+
+#### How to greet the interviewer:
+When greeting the interviewer be confident, make sure to shake his/her hand firmly and make eye contact (this is very important in showing them your confidence and professionalism). If you do not have a portfolio for your resume, put it in a dark or beige folder, carrying it professionally by your side. Come prepared with whatever you need to show how you're qualified.
+
+#### Tech Interview Questions You May Expect: [Here](https://github.com/namesjames/Junior-Developer-Resources/blob/master/Interview_Questions.md)
+
+### Questions For You To Ask
+#### Three Things You Wish to Achieve When Asking Your Questions:
+
+* Demonstrate your interest in the employer.
+* Make sure the interviewer has no reservations about you.
+* Find out if you feel the employer is the right fit for you (you’re interviewing them!)
+
+#### Examples:
+
+* What’s your feedback mechanism? (Do you use pull requests prior to merging it?)
+* How does code get into production? (look for a nice repeatable process) 
+* Ask about culture? (is this a strict 9-5, is there flexibility?)
+* Do you have regular reviews / feedback for your employees? 
+* What’s your current technology stack? (does it differ from the job description) I need details!
+* What are your current application pain points? (What are the characteristics of the performance issues in your application)
+* Ask about pairing (what are the organizational views on pairings, how much time spent)
+* What are the organizational views on testing (may not always be applicable) 
+ 
+#### Questions to Avoid:
+
+Avoid too much ‘chit-chat’ during technical interviews (but look for well-placed jokes to cut tension in interviews...only as seen fit). Wait until the next interview to ask about salary, benefits (vacation, 401k, etc.)
 
 # Interview Attire: (Dress for success) how to look and behave:
 ```Over dressing is just as easy as under dressing. Evaluate where you’re interviewing and the culture they have set in place, i.e. don’t interview at a start-up in a 3 piece suit and don’t interview at a large corporate enterprise in jeans and t-shirt. This area of focus should be least important to you, just make sure you shower, and are wearing clean, ironed clothes and you’ll be all set!```
