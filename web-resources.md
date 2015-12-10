@@ -43,6 +43,11 @@
 
 ## Job Boards
 * http://jobs.remotive.io/
+* http://panda.jobs/
+* https://www.allthejobs.io/
+* https://www.whitetruffle.com/
+* http://crawjob.com/
+* https://producthire.co/
 * https://freelanship.com
 * https://unicornhunt.io/
 * http://startupjob.me/
@@ -85,6 +90,14 @@
 * http://anicollection.github.io/
 * http://emptystat.es/
 * https://github.com/christiannaths/Redacted-Font?ref=producthunt
+* https://zeplin.io/
+* http://uxarchive.com/
+* http://uxchecklist.github.io/
+* invisionapp.com 
+* https://marvelapp.com/
+* http://uxcompanion.com/
+* http://avocode.com/
+* http://anicollection.github.io/
 
 ### Colors
 * http://coolors.co/
@@ -93,6 +106,8 @@
 * http://www.uipalette.net/
 * http://couleursapp.com/
 * http://colorsnapper.com/
+* http://www.materialpalette.com/
+* http://jxnblk.com/shade
 
 ### Typography
 * https://prowebtype.com/
@@ -121,6 +136,12 @@
 * https://unsplash.com/
 * http://subtlepatterns.com/
 * http://mystock.photos/
+* http://freebbble.com/
+
+### Mock Ups
+* https://launchkit.io
+* http://www.designwithnapkin.com/
+* http://dunnnk.com/
 
 ### Infographics
 * http://www.easel.ly/
@@ -132,6 +153,7 @@
 * http://lapa.ninja/
 * http://fltdsgn.com/
 * http://inspirizone.com/
+* https://www.thebestdesigns.com
 
 # Online Learning
 
