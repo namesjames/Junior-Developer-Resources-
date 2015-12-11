@@ -13,7 +13,7 @@
 * https://www.cakeresume.com/
 * https://www.resumonk.com/
 * https://represent.io/
-* https://www.visualcv.com/resume-samples?locale=en
+* https://www.visualcv.com/
 * http://ineedaresu.me/
 
 
@@ -70,7 +70,7 @@
 
 ## APIs
 * [Product Hunt](https://www.producthunt.com/e/an-api-for-everything?utm_source=Product+Hunt&utm_campaign=898fdb30c8-Find_an_API_for_Anything_new_template_11_3_2015&utm_medium=email&utm_term=0_2cd7d34185-898fdb30c8-121822497)
-* * [Off-line Documentation](https://kapeli.com/dash)
+* [Off-line Documentation](https://kapeli.com/dash)
 
 # Design Resources:
 
@@ -78,7 +78,6 @@
 * https://github.com/google/material-design-lite
 * http://facebook.github.io/design/
 * https://www.pixelsquid.com/
-* https://itunes.apple.com/us/app/design-hunt/id968588816?mt=8
 * http://www.codesign.io/
 * http://www.designermill.com/
 * https://www.thebestdesigns.com/
@@ -89,11 +88,11 @@
 * http://tobiasahlin.com/spinkit/
 * http://anicollection.github.io/
 * http://emptystat.es/
-* https://github.com/christiannaths/Redacted-Font?ref=producthunt
+* https://github.com/christiannaths/Redacted-Font
 * https://zeplin.io/
 * http://uxarchive.com/
 * http://uxchecklist.github.io/
-* invisionapp.com 
+* http://invisionapp.com 
 * https://marvelapp.com/
 * http://uxcompanion.com/
 * http://avocode.com/
@@ -178,7 +177,7 @@
 * http://www.html5rocks.com/en/
 
 
-### Finding answers.
+### Finding answers
 
 - [Mozilla Developer Network](http://developer.mozilla.com)
 - [stackoverflow](http://stackoverflow.com)
@@ -233,7 +232,7 @@
 - [SEO Beginners Guide](http://moz.com/beginners-guide-to-seo/how-search-engines-operate)
 - [Meta Tags](http://moz.com/blog/meta-data-templates-123)
 
-## Assets
+### Assets
 
 - [WTF Forms](http://wtfforms.com/)
 - [WTF CSS](http://wtfhtmlcss.com/)
@@ -252,7 +251,7 @@
 - http://www.hongkiat.com/blog/google-chrome-extensions-designers/
 - https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 
-# Helpful Repos
+### Helpful Repos
 
 - [material design](https://github.com/google/material-design-lite)
 - [dotfiles](https://github.com/jlord/dotfiles)
