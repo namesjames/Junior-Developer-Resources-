@@ -16,6 +16,9 @@
 * https://www.visualcv.com/
 * http://ineedaresu.me/
 
+## How to Get Hired
+* http://www.theodinproject.com/getting-hired-as-a-web-developer/strategy
+* https://www.happybearsoftware.com/how-to-get-a-programmer-job
 
 ## Profiles:
 * https://sumry.me/
@@ -49,9 +52,18 @@
 * http://crawjob.com/
 * https://producthire.co/
 * https://freelanship.com
+* http://jobs.github.com/
+* http://jobs.codepen.io
 * https://unicornhunt.io/
 * http://startupjob.me/
 * http://www.jobrapp.com/
+* https://weworkremotely.com/
+* http://www.startuphire.com/
+* http://hired.com
+* https://www.jrdevjobs.com/
+* http://careers.stackoverflow.com/jobs
+* https://www.ventureloop.com/ventureloop/job_search.php
+* https://news.ycombinator.com/submitted?id=whoishiring
 * https://landing.jobs/ - Europe
 
 ## Interviewing 
@@ -136,6 +148,8 @@
 * http://subtlepatterns.com/
 * http://mystock.photos/
 * http://freebbble.com/
+* https://www.graphicstock.com/
+* http://startupstockphotos.com/
 
 ### Mock Ups
 * https://launchkit.io
