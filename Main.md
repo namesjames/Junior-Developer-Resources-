@@ -3,37 +3,30 @@
 
 feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 
-# SITES:
- | | | | |
---- | --- | --- | --- | ---
-[Linkedin](http://linkedin.com) | [BuiltInCO](http://builtincolorado.com/) | [Angel List](http://angel.co/) | [Dice](http://dice.com/) | [Indeed](http://indeed.com/) 
+## Job Boards:
+ | | | | | | | |
+--- | --- | --- | --- | --- | --- | --- | --- | 
+[Linkedin](http://linkedin.com) | [BuiltInCO](http://builtincolorado.com/) | [Angel List](http://angel.co/) | [Dice](http://dice.com/) | [Indeed](http://indeed.com/) | [Hacker.surf](http://hacker.surf) |  [Career Builder](http://careerbuilder.com/) |  [Glass Door](http://glassdoor.com/)
+ | | | | | | | | 
+ [GitHub](http://jobs.github.com/) | [Tech Stars](http://jobs.techstars.com/jobs) | [Venture Loop](https://www.ventureloop.com/ventureloop/job_search.php) | [SimplyHired](http://www.simplyhired.com/) | [Startups Hire](http://www.startuphire.com/) | [Jr Dev Jobs](https://www.jrdevjobs.com/) | [Andrew Hudson](http://andrewhudsonsjobslist.com/) | [BWBacon](http://www.bwbacon.com/)
+ | | | | | | | | 
+ [Remy](http://www.remycorp.com/) | [MirRoR Placement](http://mirrorplacement.com/) | [Reddit](https://www.reddit.com/r/jobbit) | [We Work Remotely](https://weworkremotely.com/) | [New Tech](http://bdnewtech.com) | [Spark Boulder](http://sparkboulder.com) | [Robert Half Technology](http://www.roberthalf.com/technology/job-search?custId=0#JSRPage) | [Hired](http://hired.com) 
+ | | | | | | | | 
+ [CodePen](http://jobs.codepen.io) | [AuthenticJobs](https://authenticjobs.com/) | [Monster](http://www.monster.com/) | [hnjobs](http://hnjobs.lsenta.io/) | [Hacker News Who's Hiring](https://news.ycombinator.com/submitted?id=whoishiring) | [Remotive](http://jobs.remotive.io/) | [Freelanship](https://freelanship.com) | [Unicorn Hunt](https://unicornhunt.io/) |  |  | | | | | | | 
+ [stack overflow](http://careers.stackoverflow.com/jobs) | [Jobr App](http://www.jobrapp.com/) | [Craigslist](http://denver.craigslist.org) | [StartupJob](http://startupjob.me/) |
 
-* [Hacker.surf](http://hacker.surf) 
-* [Career Builder](http://careerbuilder.com/) 
-* [Glass Door](http://glassdoor.com/) 
-* [stack overflow]() 
-* [GitHub](http://jobs.github.com/)
-* [Tech Stars]()
-* [Venture Loop]()
-* [Unicorn Hunt]()
-* [SimplyHired]()
-* [Startups List]()
-* [Jr Dev Jobs]()
-* [Andrew Hudson]()
-* [BWBacon](http://www.bwbacon.com/) 
-* [Craigslist](http://denver.craigslist.org)
-* Remy
-* [MirRoR Placement](http://mirrorplacement.com/) 
-* Reddit 
-* We Work Remotely 
-* [New Tech](http://bdnewtech.com) 
-* [Spark Boulder](http://sparkboulder.com)
-* Robert Half Technology
-* [Hired](http://hired.com) 
-* [CodePen](http://jobs.codepen.io)
-* AuthenticJobs
-* Monster
-* hnjobs
+
+#### Austin 
+
+* [Austin Digital Jobs](https://www.facebook.com/groups/austindigitaljobs/)
+* [Capital Factory Jobs](https://www.facebook.com/groups/capitalfactoryjobs/)
+* [Hirily](http://hirily.com/)
+
+#### Europe
+
+* [Landing Jobs](https://landing.jobs/) 
+* [Hacker Jobs](http://hackerjobs.co.uk/)
+* [CW Jobs](http://www.cwjobs.co.uk/)
 
 
 # Other Resources For Job Leads:
