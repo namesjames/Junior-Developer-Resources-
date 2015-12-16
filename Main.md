@@ -73,14 +73,14 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 > Let’s get away from boring traditional resume, check out these resources [here] (https://github.com/namesjames/Junior-Developer-Resources/blob/master/web-resources.md)!
 
 
-# What will keep your resume at the “top of the stack”: 
+## What will keep your resume at the “top of the stack”: 
 * Eye-catching theme / design (no boring word docs) - but keep it clean and simple!
 * Perfect grammar (no errors / typos)
 * Personal branding (sell yourself!)
 * Tailored resumes (job specific)
 * Leverage your personal projects as job experience 
 
-# The Interview
+## The Interview
 
 #### How to greet the interviewer:
 When greeting the interviewer be confident, make sure to shake his/her hand firmly and make eye contact (this is very important in showing them your confidence and professionalism). If you do not have a portfolio for your resume, put it in a dark or beige folder, carrying it professionally by your side. Come prepared with whatever you need to show how you're qualified.
@@ -109,7 +109,7 @@ When greeting the interviewer be confident, make sure to shake his/her hand firm
 
 Avoid too much ‘chit-chat’ during technical interviews (but look for well-placed jokes to cut tension in interviews...only as seen fit). Wait until the next interview to ask about salary, benefits (vacation, 401k, etc.)
 
-# Interview Attire: (Dress for success) how to look and behave:
+### Interview Attire: (Dress for success) how to look and behave:
 ```Over dressing is just as easy as under dressing. Evaluate where you’re interviewing and the culture they have set in place, i.e. don’t interview at a start-up in a 3 piece suit and don’t interview at a large corporate enterprise in jeans and t-shirt. This area of focus should be least important to you, just make sure you shower, and are wearing clean, ironed clothes and you’ll be all set!```
 
 ```Make sure your phone is off / silent - also, do not be caught checking it - this is a deal breaker and your interview will be crushed as soon as you do! *```
@@ -117,13 +117,13 @@ Avoid too much ‘chit-chat’ during technical interviews (but look for well-pl
 > Attire tips from Forbes.com: http://www.forbes.com/sites/lisaquast/2014/01/27/8-tips-to-dress-for-interview-success/
 
 
-# Women: 
+#### Women: 
 * Tips: don’t overdo it with accessories (one strong piece - like a chunky, bright necklace - or a couple small, delicate pieces), and a silk scarf is always nice if it looks right with the outfit! If you are not comfortable in heels, go with flats (the more comfortable you are, the more confidence you will exude). Err on the side of conservative, traditional attire and dressing up rather than dressing down (but be careful not to overdress depending on the company that you are interviewing with). For women, this means a dark or neutral-colored suit, a tailored, dressy blouse and matching, mid-heel pumps or flats. Wearing a nice watch, with the correct time shows you are punctual and professional!
 
-# Men:
+#### Men:
 * Tips: if you’re interviewing at a startup a button down and slacks / dark jeans and leather shoes (either boat shoes or desert boots) work great. As far as accessories - no exposed necklaces, it’s advised to remove any earrings for interviews unless you have gauges (might look gross without). A nice watch always looks great, make sure the time is correct and it’s on your left wrist. If you’re interviewing somewhere more corporate, again button down but tucked-in, slacks / dress pants, leather shoes (polished) stick with one color of leather - don’t wear black shoes, brown belt, and silver watch, try to stay consistent. Don’t over-do the cologne and always iron / lint brush your outfit. 
 
-# Negotiating: 
+## Negotiating: 
 
 * How do I turn a part time contract into a full time position?
 
@@ -135,7 +135,7 @@ Avoid too much ‘chit-chat’ during technical interviews (but look for well-pl
 
 * How can I negotiate working out of a different office location?
 
-# Personality Traits:
+## Personality Traits:
 
 * Curiosity (intellectual) -  Curious people are often quirky and think outside the box. Employers are looking for an employee whose forever learning and never satisfied sitting still. The goal is to find employees challenge their co-workers and the firm itself to continue rapid expansion and the development of new skills.
 
@@ -153,23 +153,4 @@ Avoid too much ‘chit-chat’ during technical interviews (but look for well-pl
 
 * Listening - Listening is often more important than publishing any sort of information. Being a good listener can help lead to being a good communicator. 
 
-# Team Work:
-
-```Qualities of an effective team player:
-Respect
-Leadership
-Dependability
-Acknowledging Others
-Communication
-Support
-Participation/Contribution
-Flexibility
-Critical & Creative Thinking```
-
-
-# Post-Interview Follow-Up
-
-```When you get home from the interview, write down your notes and questions about the interview before you have a chance to forget them. Also write down the names of the interviewer(s) - remembering names are VERY important!
-Write down the specific questions and concerns the interviewer(s) had. Write down your own observations and questions, too (for future reference). 
-Write a Thank You / Follow Up email: this should be short and sweet - thanking them, showing them your excitement and offering to send any additional information.```
 
