@@ -13,7 +13,7 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
  [Remy](http://www.remycorp.com/) | [MirRoR Placement](http://mirrorplacement.com/) | [Reddit](https://www.reddit.com/r/jobbit) | [We Work Remotely](https://weworkremotely.com/) | [New Tech](http://bdnewtech.com) | [Spark Boulder](http://sparkboulder.com) | [Robert Half Technology](http://www.roberthalf.com/technology/job-search?custId=0#JSRPage) | [Hired](http://hired.com) 
  | | | | | | | | 
  [CodePen](http://jobs.codepen.io) | [AuthenticJobs](https://authenticjobs.com/) | [Monster](http://www.monster.com/) | [hnjobs](http://hnjobs.lsenta.io/) | [Hacker News Who's Hiring](https://news.ycombinator.com/submitted?id=whoishiring) | [Remotive](http://jobs.remotive.io/) | [Freelanship](https://freelanship.com) | [Unicorn Hunt](https://unicornhunt.io/) |  |  | | | | | | | 
- [stack overflow](http://careers.stackoverflow.com/jobs) | [Jobr App](http://www.jobrapp.com/) | [Craigslist](http://denver.craigslist.org) | [StartupJob](http://startupjob.me/) |
+ [stack overflow](http://careers.stackoverflow.com/jobs) | [Jobr App](http://www.jobrapp.com/) | [Craigslist](http://denver.craigslist.org) | [StartupJob](http://startupjob.me/) | [Job Fusion](https://jobfusion.co/) | [First Job](https://www.firstjob.com/) | [The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) 
 
 
 #### Austin 
