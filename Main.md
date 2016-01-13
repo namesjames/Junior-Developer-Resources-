@@ -31,6 +31,25 @@ feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 * [Hacker Jobs](http://hackerjobs.co.uk/)
 * [CW Jobs](http://www.cwjobs.co.uk/)
 
+#### Remote
+* [Remotive](http://jobs.remotive.io/)
+* [We Work Remotely](https://weworkremotely.com/)
+* [RemoteOK](https://remoteok.io/)
+* [GoRemote](https://goremote.io/)
+* [NomadList](https://nomadlist.com)
+* [Gigster](https://gigster.com/)
+* [TalentBoard](http://talentboard.me/)
+* [Gigrove](https://gigrove.com)
+* [SpeedLancer](http://speedlancer.com/)
+* [RemoteYear](http://www.remoteyear.com/)
+* [JobScribe](http://jobscribe.com/)
+* [Spare5](http://www.spare5.com/)
+* [Job Collections](https://angel.co/job-collections)
+* [Loot](http://loot-app.com/)
+* [CloudPeeps](https://www.cloudpeeps.com/)
+* [WorkingNomads](http://www.workingnomads.co/)
+* [SideProjectors](https://www.sideprojectors.com/project/home)
+
 
 # Other Resources For Job Leads:
 * Alumni Connections - Check companies that currently employ alumni
