@@ -1,5 +1,52 @@
 # Web Resources
-> List of helpful sites and repos, feel free to contribute
+> List of helpful sites, repos, and more - feel free to contribute
+
+## Job Boards:
+ | | | | | | | |
+--- | --- | --- | --- | --- | --- | --- | --- | 
+[Linkedin](http://linkedin.com) | [BuiltInCO](http://builtincolorado.com/) | [Angel List](http://angel.co/) | [Dice](http://dice.com/) | [Indeed](http://indeed.com/) | [Hacker.surf](http://hacker.surf) |  [Career Builder](http://careerbuilder.com/) |  [Glass Door](http://glassdoor.com/)
+ | | | | | | | | 
+ [GitHub](http://jobs.github.com/) | [Tech Stars](http://jobs.techstars.com/jobs) | [Venture Loop](https://www.ventureloop.com/ventureloop/job_search.php) | [SimplyHired](http://www.simplyhired.com/) | [Startups Hire](http://www.startuphire.com/) | [Jr Dev Jobs](https://www.jrdevjobs.com/) | [Andrew Hudson](http://andrewhudsonsjobslist.com/) | [BWBacon](http://www.bwbacon.com/)
+ | | | | | | | | 
+ [Remy](http://www.remycorp.com/) | [MirRoR Placement](http://mirrorplacement.com/) | [Reddit](https://www.reddit.com/r/jobbit) | [We Work Remotely](https://weworkremotely.com/) | [New Tech](http://bdnewtech.com) | [Spark Boulder](http://sparkboulder.com) | [Robert Half Technology](http://www.roberthalf.com/technology/job-search?custId=0#JSRPage) | [Hired](http://hired.com) 
+ | | | | | | | | 
+ [CodePen](http://jobs.codepen.io) | [AuthenticJobs](https://authenticjobs.com/) | [Monster](http://www.monster.com/) | [hnjobs](http://hnjobs.lsenta.io/) | [Hacker News Who's Hiring](https://news.ycombinator.com/submitted?id=whoishiring) | [Remotive](http://jobs.remotive.io/) | [Freelanship](https://freelanship.com) | [Unicorn Hunt](https://unicornhunt.io/) |  |  | | | | | | | 
+ [stack overflow](http://careers.stackoverflow.com/jobs) | [Jobr App](http://www.jobrapp.com/) | [Craigslist](http://denver.craigslist.org) | [StartupJob](http://startupjob.me/) | [Job Fusion](https://jobfusion.co/) | [First Job](https://www.firstjob.com/) | [The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) 
+ | | | | | | |
+[The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) | [First Round Capital](http://firstround.com/jobs) | [BVP](http://jobs.bvp.com/careers_home.php?Company=%25&Industry=%25&Function=%25&Location=11) | [Job Fusion](https://jobfusion.co/) | [Breakout List](https://breakoutlist.com/) | [First Job](https://www.firstjob.com/)
+
+
+
+#### Austin 
+
+* [Austin Digital Jobs](https://www.facebook.com/groups/austindigitaljobs/)
+* [Capital Factory Jobs](https://www.facebook.com/groups/capitalfactoryjobs/)
+* [Hirily](http://hirily.com/)
+
+#### Europe
+
+* [Landing Jobs](https://landing.jobs/) 
+* [Hacker Jobs](http://hackerjobs.co.uk/)
+* [CW Jobs](http://www.cwjobs.co.uk/)
+
+#### Remote
+* [Remotive](http://jobs.remotive.io/)
+* [We Work Remotely](https://weworkremotely.com/)
+* [RemoteOK](https://remoteok.io/)
+* [GoRemote](https://goremote.io/)
+* [NomadList](https://nomadlist.com)
+* [Gigster](https://gigster.com/)
+* [TalentBoard](http://talentboard.me/)
+* [Gigrove](https://gigrove.com)
+* [SpeedLancer](http://speedlancer.com/)
+* [RemoteYear](http://www.remoteyear.com/)
+* [JobScribe](http://jobscribe.com/)
+* [Spare5](http://www.spare5.com/)
+* [Job Collections](https://angel.co/job-collections)
+* [Loot](http://loot-app.com/)
+* [CloudPeeps](https://www.cloudpeeps.com/)
+* [WorkingNomads](http://www.workingnomads.co/)
+* [SideProjectors](https://www.sideprojectors.com/project/home)
 
 ## Resumes & Branding:
 * http://resumator.qwilr.com/
@@ -43,28 +90,6 @@
 ## Open Source Projects
 * https://github.com/explore
 * http://beautifulopen.com/
-
-## Job Boards
-* http://jobs.remotive.io/
-* http://panda.jobs/
-* https://www.allthejobs.io/
-* https://www.whitetruffle.com/
-* http://crawjob.com/
-* https://producthire.co/
-* https://freelanship.com
-* http://jobs.github.com/
-* http://jobs.codepen.io
-* https://unicornhunt.io/
-* http://startupjob.me/
-* http://www.jobrapp.com/
-* https://weworkremotely.com/
-* http://www.startuphire.com/
-* http://hired.com
-* https://www.jrdevjobs.com/
-* http://careers.stackoverflow.com/jobs
-* https://www.ventureloop.com/ventureloop/job_search.php
-* https://news.ycombinator.com/submitted?id=whoishiring
-* https://landing.jobs/ - Europe
 
 ## Interviewing 
 * http://www.interviewqueue.com/
@@ -215,7 +240,7 @@
 - [JS Books](http://jsbooks.revolunet.com/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#while_statement)
-- 
+
 
 **Node**
 
