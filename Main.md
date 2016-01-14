@@ -3,104 +3,6 @@
 
 feel free to contact me with questions or suggestions - jamesconti.41@gmail.com
 
-## Job Boards:
- | | | | | | | |
---- | --- | --- | --- | --- | --- | --- | --- | 
-[Linkedin](http://linkedin.com) | [BuiltInCO](http://builtincolorado.com/) | [Angel List](http://angel.co/) | [Dice](http://dice.com/) | [Indeed](http://indeed.com/) | [Hacker.surf](http://hacker.surf) |  [Career Builder](http://careerbuilder.com/) |  [Glass Door](http://glassdoor.com/)
- | | | | | | | | 
- [GitHub](http://jobs.github.com/) | [Tech Stars](http://jobs.techstars.com/jobs) | [Venture Loop](https://www.ventureloop.com/ventureloop/job_search.php) | [SimplyHired](http://www.simplyhired.com/) | [Startups Hire](http://www.startuphire.com/) | [Jr Dev Jobs](https://www.jrdevjobs.com/) | [Andrew Hudson](http://andrewhudsonsjobslist.com/) | [BWBacon](http://www.bwbacon.com/)
- | | | | | | | | 
- [Remy](http://www.remycorp.com/) | [MirRoR Placement](http://mirrorplacement.com/) | [Reddit](https://www.reddit.com/r/jobbit) | [We Work Remotely](https://weworkremotely.com/) | [New Tech](http://bdnewtech.com) | [Spark Boulder](http://sparkboulder.com) | [Robert Half Technology](http://www.roberthalf.com/technology/job-search?custId=0#JSRPage) | [Hired](http://hired.com) 
- | | | | | | | | 
- [CodePen](http://jobs.codepen.io) | [AuthenticJobs](https://authenticjobs.com/) | [Monster](http://www.monster.com/) | [hnjobs](http://hnjobs.lsenta.io/) | [Hacker News Who's Hiring](https://news.ycombinator.com/submitted?id=whoishiring) | [Remotive](http://jobs.remotive.io/) | [Freelanship](https://freelanship.com) | [Unicorn Hunt](https://unicornhunt.io/) |  |  | | | | | | | 
- [stack overflow](http://careers.stackoverflow.com/jobs) | [Jobr App](http://www.jobrapp.com/) | [Craigslist](http://denver.craigslist.org) | [StartupJob](http://startupjob.me/) | [Job Fusion](https://jobfusion.co/) | [First Job](https://www.firstjob.com/) | [The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) 
- | | | | | | |
-[The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) | [First Round Capital](http://firstround.com/jobs) | [BVP](http://jobs.bvp.com/careers_home.php?Company=%25&Industry=%25&Function=%25&Location=11) | [Job Fusion](https://jobfusion.co/) | [Breakout List](https://breakoutlist.com/) | [First Job](https://www.firstjob.com/)
-
-
-
-#### Austin 
-
-* [Austin Digital Jobs](https://www.facebook.com/groups/austindigitaljobs/)
-* [Capital Factory Jobs](https://www.facebook.com/groups/capitalfactoryjobs/)
-* [Hirily](http://hirily.com/)
-
-#### Europe
-
-* [Landing Jobs](https://landing.jobs/) 
-* [Hacker Jobs](http://hackerjobs.co.uk/)
-* [CW Jobs](http://www.cwjobs.co.uk/)
-
-#### Remote
-* [Remotive](http://jobs.remotive.io/)
-* [We Work Remotely](https://weworkremotely.com/)
-* [RemoteOK](https://remoteok.io/)
-* [GoRemote](https://goremote.io/)
-* [NomadList](https://nomadlist.com)
-* [Gigster](https://gigster.com/)
-* [TalentBoard](http://talentboard.me/)
-* [Gigrove](https://gigrove.com)
-* [SpeedLancer](http://speedlancer.com/)
-* [RemoteYear](http://www.remoteyear.com/)
-* [JobScribe](http://jobscribe.com/)
-* [Spare5](http://www.spare5.com/)
-* [Job Collections](https://angel.co/job-collections)
-* [Loot](http://loot-app.com/)
-* [CloudPeeps](https://www.cloudpeeps.com/)
-* [WorkingNomads](http://www.workingnomads.co/)
-* [SideProjectors](https://www.sideprojectors.com/project/home)
-
-
-# Other Resources For Job Leads:
-* Alumni Connections - Check companies that currently employ alumni
-* Former Colleagues - Look for ‘ins’ 
-* External Recruiters - Feel free to work with
-* Family Friends - See who you know may know
-* Networking Events / Meet-ups - look for new connections to utilize
-* Cold Emailing - you’d be surprised what responses you may get (don’t spam)
-* Mentors - use their connections
-* Venture Capital Firms - look at their job boards and investments
-* Coworking Spaces - look at the companies that work there
-* Linkedin Connections and news feed - stay active
-* Conferences  - go to any of the sponsors websites, they're most likely hiring. 
-
-# Meet-ups
-
-### Denver / Boulder
-* [Node.js Denver / Boulder](http://www.meetup.com/Node-js-Denver-Boulder/)
-* [Denver Script](http://www.meetup.com/DenverScript/)
-* [Refresh Denver](http://www.meetup.com/refreshdenver/)
-* [Full Stack](http://www.meetup.com/fullstack/)
-* [Ember Denver](http://www.meetup.com/Ember-js-Denver/)
-* [Denver Cordova](http://www.meetup.com/Denver-Cordova-Ionic-Meetup/)
-* [Denver iOS Developer User Group](http://www.meetup.com/DenverIPhone/)
-* [Sass Hack Denver](http://www.meetup.com/Sass-Hack-Denver/)
-* [Boulder Ruby](http://www.meetup.com/boulder_ruby_group/)
-* [Rocky Mountain Angular](http://www.meetup.com/RockyMountainAngularJS/)
-* [HTML5 User Group](http://www.meetup.com/HTML5-Denver-Users-Group/)
-
-# Networking:
-* Attend Meetups, Hackathons, Career Fairs, Conferences, etc.
-* Create online profiles:
-* Linkedin - Must have. Feel free to endorse classmates. Join ruby groups. 
-* Github - Must have. Follow classmates and star repos
-* Slack - Must have to communicate
-* Angel List - Startup jobs, plus a great place to have a profile
-* Twitter - Follow galvanize accounts and classmates, RT your events
-* Glass Door - Job postings + company reviews
-* Dice - Good to have a profile
-* Mirror Placement - Great resource but really intended for mid-sr devs
-
-# Resume Resources: 
-> Let’s get away from boring traditional resume, check out these resources [here] (https://github.com/namesjames/Junior-Developer-Resources/blob/master/web-resources.md)!
-
-
-## What will keep your resume at the “top of the stack”: 
-* Eye-catching theme / design (no boring word docs) - but keep it clean and simple!
-* Perfect grammar (no errors / typos)
-* Personal branding (sell yourself!)
-* Tailored resumes (job specific)
-* Leverage your personal projects as job experience 
 
 ## The Interview
 
@@ -145,7 +47,7 @@ Avoid too much ‘chit-chat’ during technical interviews (but look for well-pl
 #### Men:
 * Tips: if you’re interviewing at a startup a button down and slacks / dark jeans and leather shoes (either boat shoes or desert boots) work great. As far as accessories - no exposed necklaces, it’s advised to remove any earrings for interviews unless you have gauges (might look gross without). A nice watch always looks great, make sure the time is correct and it’s on your left wrist. If you’re interviewing somewhere more corporate, again button down but tucked-in, slacks / dress pants, leather shoes (polished) stick with one color of leather - don’t wear black shoes, brown belt, and silver watch, try to stay consistent. Don’t over-do the cologne and always iron / lint brush your outfit. 
 
-## Negotiating: 
+### Negotiating: 
 
 * How do I turn a part time contract into a full time position?
 
@@ -157,7 +59,7 @@ Avoid too much ‘chit-chat’ during technical interviews (but look for well-pl
 
 * How can I negotiate working out of a different office location?
 
-## Personality Traits:
+### Personality Traits:
 
 * Curiosity (intellectual) -  Curious people are often quirky and think outside the box. Employers are looking for an employee whose forever learning and never satisfied sitting still. The goal is to find employees challenge their co-workers and the firm itself to continue rapid expansion and the development of new skills.
 
@@ -165,7 +67,7 @@ Avoid too much ‘chit-chat’ during technical interviews (but look for well-pl
 
 * Integrity - People who value integrity are a perfect fit for any company. You can be as smart and competitive as possible but it will hurt your odds if you lack integrity. Being honest, moral, and holding high ethical standards are very desirable for a company of any size.
 
-# Communication / Feedback:
+### Communication / Feedback:
 
 * Sharing, Input and Dialogue - Give feedback on the information you receive. Make sure you receive feedback, answers, and comments from managers and keep a strong communication loop. 
 
