@@ -34,11 +34,12 @@ When greeting the interviewer be confident, make sure to shake his/her hand firm
 Avoid too much ‘chit-chat’ during technical interviews (but look for well-placed jokes to cut tension in interviews...only as seen fit). Wait until the next interview to ask about salary, benefits (vacation, 401k, etc.)
 
 ### Interview Attire: (Dress for success) how to look and behave:
-```Over dressing is just as easy as under dressing. Evaluate where you’re interviewing and the culture they have set in place, i.e. don’t interview at a start-up in a 3 piece suit and don’t interview at a large corporate enterprise in jeans and t-shirt. This area of focus should be least important to you, just make sure you shower, and are wearing clean, ironed clothes and you’ll be all set!```
 
-```Make sure your phone is off / silent - also, do not be caught checking it - this is a deal breaker and your interview will be crushed as soon as you do! *```
+Over dressing is just as easy as under dressing. Evaluate where you’re interviewing and the culture they have set in place, i.e. don’t interview at a start-up in a 3 piece suit and don’t interview at a large corporate enterprise in jeans and t-shirt. This area of focus should be least important to you, just make sure you shower, and are wearing clean, ironed clothes and you’ll be all set!
 
-> Attire tips from Forbes.com: http://www.forbes.com/sites/lisaquast/2014/01/27/8-tips-to-dress-for-interview-success/
+Make sure your phone is off / silent - also, do not be caught checking it - this is a deal breaker and your interview will be crushed as soon as you do! *
+
+* Attire tips from Forbes.com: http://www.forbes.com/sites/lisaquast/2014/01/27/8-tips-to-dress-for-interview-success/
 
 
 #### Women: 
