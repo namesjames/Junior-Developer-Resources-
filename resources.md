@@ -62,6 +62,7 @@
 * https://represent.io/
 * https://www.visualcv.com/
 * http://ineedaresu.me/
+* https://www.resume-now.com
 
 ## How to Get Hired
 * http://www.theodinproject.com/getting-hired-as-a-web-developer/strategy
@@ -90,6 +91,9 @@
 ## Open Source Projects
 * https://github.com/explore
 * http://beautifulopen.com/
+* http://www.codetriage.com/
+* https://openhatch.org/
+
 
 ## Interviewing 
 * http://www.interviewqueue.com/
@@ -198,6 +202,7 @@
 ### General
 
 * https://www.codecademy.com/galvanize
+* https://www.codeupstart.com
 * http://www.git-tower.com/learn/
 * https://due.com/programmer
 * http://softwareengineeringdaily.com/
