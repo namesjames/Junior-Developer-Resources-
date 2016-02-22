@@ -102,6 +102,9 @@
 * http://www.codetriage.com/
 * https://openhatch.org/
 
+## Hackathons
+* https://www.hackevents.co
+* https://twitter.com/hackathons
 
 ## Interviewing 
 * http://www.interviewqueue.com/
