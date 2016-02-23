@@ -104,7 +104,11 @@
 
 ## Hackathons
 * https://www.hackevents.co
+* http://www.hackathon.io/events
+* https://www.hackerrank.com/
 * https://twitter.com/hackathons
+* http://devpost.com/
+* http://whatthehack.io/
 
 ## Interviewing 
 * http://www.interviewqueue.com/
@@ -230,6 +234,8 @@
 * http://www.codewars.com/
 * https://www.bento.io/
 * http://www.html5rocks.com/en/
+* https://www.codeupstart.com
+* https://www.thenewboston.com/
 
 
 ### Finding answers
