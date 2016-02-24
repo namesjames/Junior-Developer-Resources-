@@ -13,8 +13,10 @@
  [CodePen](http://jobs.codepen.io) | [AuthenticJobs](https://authenticjobs.com/) | [Monster](http://www.monster.com/) | [hnjobs](http://hnjobs.lsenta.io/) | [Hacker News Who's Hiring](https://news.ycombinator.com/submitted?id=whoishiring) | [Remotive](http://jobs.remotive.io/) | [Freelanship](https://freelanship.com) | [Unicorn Hunt](https://unicornhunt.io/) |  |  | | | | | | | 
  [stack overflow](http://careers.stackoverflow.com/jobs) | [Jobr App](http://www.jobrapp.com/) | [Craigslist](http://denver.craigslist.org) | [StartupJob](http://startupjob.me/) | [Job Fusion](https://jobfusion.co/) | [First Job](https://www.firstjob.com/) | [The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) 
  | | | | | | |
-[The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) | [First Round Capital](http://firstround.com/jobs) | [BVP](http://jobs.bvp.com/careers_home.php?Company=%25&Industry=%25&Function=%25&Location=11) | [Job Fusion](https://jobfusion.co/) | [Breakout List](https://breakoutlist.com/) | [Wade & Wendy](http://wadeandwendy.ai/) | [Who Is Hiring](https://whoishiring.io/#!/)
-
+[The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) | [First Round Capital](http://firstround.com/jobs) | [BVP](http://jobs.bvp.com/careers_home.php?Company=%25&Industry=%25&Function=%25&Location=11) | [Job Fusion](https://jobfusion.co/) | [zoe](http://yeszoe.com/) | [Wade & Wendy](http://wadeandwendy.ai/) | [Who Is Hiring](https://whoishiring.io/#!/)
+ | | | | | | |
+ [woo](https://woo.io/) | [Breakout List](https://breakoutlist.com/) |
+ 
 #### Colorado
 * [BuiltInCO](http://builtincolorado.com/)
 * [New Tech](http://bdnewtech.com) 
