@@ -20,6 +20,7 @@
 #### Colorado
 * [BuiltInCO](http://builtincolorado.com/)
 * [New Tech](http://bdnewtech.com) 
+* [Denver Egotist](http://www.thedenveregotist.com/jobs)
 * [Spark Boulder](http://sparkboulder.com)
 * [Robert Half Technology](http://www.roberthalf.com/technology/job-search?custId=0#JSRPage)
 * [BWBacon](http://www.bwbacon.com/) 
