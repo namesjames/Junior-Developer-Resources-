@@ -221,6 +221,11 @@
 
 * https://www.codecademy.com/galvanize
 * https://www.codeupstart.com
+* http://lrnapp.com/
+* https://code4startup.com/
+* http://www.freecodecamp.com/
+* http://www.sololearn.com/
+* https://teamtreehouse.com/
 * http://www.git-tower.com/learn/
 * https://due.com/programmer
 * http://softwareengineeringdaily.com/
