@@ -77,6 +77,7 @@
 * https://www.visualcv.com/
 * http://ineedaresu.me/
 * https://www.resume-now.com
+* https://www.kickresume.com/
 
 ## How to Get Hired
 * http://www.theodinproject.com/getting-hired-as-a-web-developer/strategy
