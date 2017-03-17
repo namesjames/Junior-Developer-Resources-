@@ -2,25 +2,29 @@
 > List of helpful sites, repos, and more - feel free to contribute
 
 ## Job Boards:
- | | | | | | | |
---- | --- | --- | --- | --- | --- | --- | --- | 
+|   |   |   |   |   |
+|:-:|---|---|---|--:|
 [Linkedin](http://linkedin.com) | [BuiltInCO](http://builtincolorado.com/) | [Angel List](http://angel.co/) | [Dice](http://dice.com/) | [Indeed](http://indeed.com/) | [Hacker.surf](http://hacker.surf) |  [Career Builder](http://careerbuilder.com/) |  [Glass Door](http://glassdoor.com/)
  | | | | | | | | 
- [GitHub](http://jobs.github.com/) | [Tech Stars](http://jobs.techstars.com/jobs) | [Venture Loop](https://www.ventureloop.com/ventureloop/job_search.php) | [SimplyHired](http://www.simplyhired.com/) | [Startups Hire](http://www.startuphire.com/) | [Jr Dev Jobs](https://www.jrdevjobs.com/) | [Andrew Hudson](http://andrewhudsonsjobslist.com/) | [BWBacon](http://www.bwbacon.com/)
+ [GitHub](http://jobs.github.com/) | [Tech Stars](http://jobs.techstars.com/jobs) | [Venture Loop](https://www.ventureloop.com/ventureloop/job_search.php) | [SimplyHired](http://www.simplyhired.com/) | [Startups Hire](http://www.startuphire.com/) | [Jr Dev Jobs](https://www.jrdevjobs.com/) | [Product Hire](https://producthire.co/) | [BWBacon](http://www.bwbacon.com/)
  | | | | | | | | 
- [Remy](http://www.remycorp.com/) | [MirRoR Placement](http://mirrorplacement.com/) | [Reddit](https://www.reddit.com/r/jobbit) | [We Work Remotely](https://weworkremotely.com/) | [New Tech](http://bdnewtech.com) | [Liquid Talent](http://liquidtalent.com/) | [Robert Half Technology](http://www.roberthalf.com/technology/job-search?custId=0#JSRPage) | [Hired](http://hired.com) 
+ [YC Careers](http://jonathanzwhite.github.io/yc-careers/) | [MirRoR Placement](http://mirrorplacement.com/) | [Reddit](https://www.reddit.com/r/jobbit) | [We Work Remotely](https://weworkremotely.com/) | [New Tech](http://bdnewtech.com) | [Liquid Talent](http://liquidtalent.com/) | [Colorado Dev](https://coloradodev.com/) | [Hired](http://hired.com) 
  | | | | | | | | 
- [CodePen](http://jobs.codepen.io) | [AuthenticJobs](https://authenticjobs.com/) | [Monster](http://www.monster.com/) | [Launch Code](https://www.launchcode.org/) | [Hacker News Who's Hiring](https://news.ycombinator.com/submitted?id=whoishiring) | [Remotive](http://jobs.remotive.io/) | [Freelanship](https://freelanship.com) | [Unicorn Hunt](https://unicornhunt.io/) |  |  | | | | | | | 
+ [CodePen](http://jobs.codepen.io) | [AuthenticJobs](https://authenticjobs.com/) | [Monster](http://www.monster.com/) | [hnjobs](http://hnjobs.lsenta.io/) | [Hacker News Who's Hiring](https://news.ycombinator.com/submitted?id=whoishiring) | [Remotive](http://jobs.remotive.io/) | [Freelanship](https://freelanship.com) | [Unicorn Hunt](https://unicornhunt.io/) |  |  | | | | | | | 
  [stack overflow](http://careers.stackoverflow.com/jobs) | [Jobr App](http://www.jobrapp.com/) | [Craigslist](http://denver.craigslist.org) | [StartupJob](http://startupjob.me/) | [Job Fusion](https://jobfusion.co/) | [First Job](https://www.firstjob.com/) | [The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) 
  | | | | | | |
 [The Muse](https://www.themuse.com/) | [Product Hunt](https://www.producthunt.com/jobs) | [First Round Capital](http://firstround.com/jobs) | [BVP](http://jobs.bvp.com/careers_home.php?Company=%25&Industry=%25&Function=%25&Location=11) | [Job Fusion](https://jobfusion.co/) | [zoe](http://yeszoe.com/) | [Wade & Wendy](http://wadeandwendy.ai/) | [Who Is Hiring](https://whoishiring.io/#!/)
  | | | | | | |
  [woo](https://woo.io/) | [Breakout List](https://breakoutlist.com/) | [UnderDog](https://underdog.io/) | [StartUppers](https://www.startupers.com/) | [Startup Sort](https://www.startupsort.com/) | [Authentic Jobs](https://authenticjobs.com/) | [Crunch Board](http://www.crunchboard.com/jobs/) | [Tech.co](http://jobs.tech.co/)
- 
+
+
 #### Colorado
+* [Colorado Dev](https://coloradodev.com/)
 * [BuiltInCO](http://builtincolorado.com/)
-* [New Tech](http://bdnewtech.com) 
+* [BD New Tech](http://bdnewtech.com) 
+* [Denver Devs](https://discourse.denverdevs.org/c/gigs)
 * [Denver Egotist](http://www.thedenveregotist.com/jobs)
+* [Luke's Circle](https://lukescircle.com)
 * [Spark Boulder](http://sparkboulder.com)
 * [Robert Half Technology](http://www.roberthalf.com/technology/job-search?custId=0#JSRPage)
 * [BWBacon](http://www.bwbacon.com/) 
@@ -35,7 +39,13 @@
 * [Hirily](http://hirily.com/)
 
 #### North Carolina
-* [Start Charlotte](http://jobs.startcharlotte.com/)
+* [StartUp Charlotte](http://jobs.startcharlotte.com/)
+
+#### SF / Bay
+* [YC Careers](http://jonathanzwhite.github.io/yc-careers/)
+* [TripleByte](https://triplebyte.com/)
+* [Startuply](https://Startuply.com/)
+* [Craigslist - Bay Area](https://sfbay.craigslist.org/)
 
 #### Europe
 
@@ -44,6 +54,7 @@
 * [CW Jobs](http://www.cwjobs.co.uk/)
 
 #### Remote
+* [Remote](https://remote.com/)
 * [Remotive](http://jobs.remotive.io/)
 * [We Work Remotely](https://weworkremotely.com/)
 * [RemoteOK](https://remoteok.io/)
@@ -61,6 +72,7 @@
 * [CloudPeeps](https://www.cloudpeeps.com/)
 * [WorkingNomads](http://www.workingnomads.co/)
 * [SideProjectors](https://www.sideprojectors.com/project/home)
+* [WFH](https://www.wfh.io/)
 
 ## Resumes & Branding:
 * http://resumator.qwilr.com/
@@ -130,6 +142,7 @@
 * http://metricsparrow.com/toolkit/email-permutator/
 * http://email-lookup.spokepoint.com/
 * http://toofr.com/
+* https://emailmatcher.com/
 
 ## APIs
 * [Product Hunt](https://www.producthunt.com/e/an-api-for-everything?utm_source=Product+Hunt&utm_campaign=898fdb30c8-Find_an_API_for_Anything_new_template_11_3_2015&utm_medium=email&utm_term=0_2cd7d34185-898fdb30c8-121822497)
